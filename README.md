@@ -43,6 +43,12 @@ Then install the script as usual.
 
 ---
 
+### **Requirements**
+* Directory Opus 13.24.3 or higher.
+* Windows 10 1803 or higher (since the script uses Unix sockets for faster intercommunication with the helper).
+
+---
+
 ### **Usage**
 
 The first time you install the script, it'll ask if you want to start configuring columns.
