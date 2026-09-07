@@ -194,6 +194,11 @@ The only way to fix that is to clear the entire thumbnail database.
 
 * To the Opus team, as usual.
 
+The GO helper use the following third party libraries:
+
+* [PDFCPU](https://github.com/pdfcpu/pdfcpu)
+* [archives](https://github.com/mholt/archives)
+
 ---
 
 ### **Changelog**
